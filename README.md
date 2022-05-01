@@ -1,7 +1,7 @@
 # notes-azolyomi
 
 # Drum Synth Beginnings
-Located at: [https://github.com/allolib-s22/lab01-azolyomi](this-link)
+Located at: [This link](https://github.com/allolib-s22/lab01-azolyomi)
 
 # Sequence to Note Converter 
-Located at: [https://github.com/allolib-s22/sequence-to-note-converter](this-link)
+Located at: [This link](https://github.com/allolib-s22/sequence-to-note-converter)
